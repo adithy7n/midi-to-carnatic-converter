@@ -85,7 +85,7 @@ Note Durations:
 
 ## 📂 Project Structure
 
-```
+```text
 midi-to-carnatic-converter/
 │── converter.py       # Main application (GUI + logic)
 │── README.md          # Project documentation
@@ -126,9 +126,4 @@ It’s for:
 
 ---
 
-```
-
-✅ Now everything (including **Inspiration**) is in one copy block — you can drop this directly into your `README.md`.  
-
-Do you also want me to generate a **`requirements.txt`** file so people can install everything with a single `pip install -r requirements.txt`?
 ```
