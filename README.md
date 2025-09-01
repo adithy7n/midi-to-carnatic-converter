@@ -1,4 +1,3 @@
-
 # 🎶 MIDI to Carnatic Converter  
 
 Ever played around with a MIDI file and wondered what it would sound like if expressed in **Carnatic swaras** instead of plain Western notes?  
