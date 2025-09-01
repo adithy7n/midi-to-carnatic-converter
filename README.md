@@ -105,6 +105,11 @@ Contributions are welcome!
 - Polish the **UI/UX**  
 - Or just open an issue if something breaks 🎵  
 
+midi-to-carnatic-converter/
+│── converter.py       # Main application (GUI + logic)
+│── README.md          # Project documentation
+│── requirements.txt   # Dependencies
+
 ---
 
 ## 📜 License
