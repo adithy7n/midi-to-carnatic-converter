@@ -117,7 +117,7 @@ Feel free to use, modify, and share — just keep the credits intact.
 
 This project started out as a fun experiment:  
 
-> “What if we could take a digital MIDI file and hear it through the lens of Carnatic music theory?”  
+> “How will I as a Computer Science undergraduate blend my hobby as a music producer with a fun experiment?”  
 
 It’s for:  
 
