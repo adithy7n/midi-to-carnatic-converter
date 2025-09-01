@@ -117,7 +117,7 @@ Feel free to use, modify, and share — just keep the credits intact.
 
 This project started out as a fun experiment:  
 
-> “How will I as a Computer Science undergraduate blend my hobby as a music producer with a fun experiment?”  
+> “How can I, as a Computer Science undergraduate, blend my hobby as a music producer with a hands-on coding project?” 
 
 It’s for:  
 
