@@ -91,6 +91,7 @@ midi-to-carnatic-converter/
 │── converter.py       # Main application (GUI + logic)
 │── README.md          # Project documentation
 │── requirements.txt   # Dependencies
+
 ```
 
 ---
