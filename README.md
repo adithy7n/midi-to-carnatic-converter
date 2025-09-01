@@ -83,7 +83,6 @@ Ga1 Ga1 Ma2 Ni1 Ni1 Ri1 Ri1 Ma1 Dha1 Ni1 Ni1 Ga1 Ma2 Dha1 Ni1 Dha1 Dha1 Ri1 Ma1 
 ```
 
 ---
-
 ## 📂 Project Structure
 
 ```text
@@ -104,11 +103,6 @@ Contributions are welcome!
 - Improve **note duration tracking**  
 - Polish the **UI/UX**  
 - Or just open an issue if something breaks 🎵  
-
-midi-to-carnatic-converter/
-│── converter.py       # Main application (GUI + logic)
-│── README.md          # Project documentation
-│── requirements.txt   # Dependencies
 
 ---
 
